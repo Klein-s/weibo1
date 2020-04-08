@@ -109,13 +109,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/static_pages" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\wwwroot\weibo\resources\views\static_pages" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\wwwroot\weibo\resources\views\static_pages" />
       <recent name="D:\wwwroot\weibo\resources\views" />
     </key>
   </component>
@@ -135,7 +136,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586329055680</updated>
-      <workItem from="1586329059197" duration="1308000" />
+      <workItem from="1586329059197" duration="1615000" />
     </task>
     <servers />
   </component>
